@@ -9,5 +9,10 @@ $fa-font-display: auto !default;
 @import "~@fortawesome/fontawesome-free/scss/solid.scss";
 @import "~@fortawesome/fontawesome-free/scss/brands.scss";
 
+@font-face {
+    font-family: game_over;
+    src: url(/static/fonts/game_over.ttf);
+}
 @import "~typeface-lato/index.css";
 @import "~typeface-raleway/index.css";
+
